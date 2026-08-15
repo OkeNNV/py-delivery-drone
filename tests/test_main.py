@@ -230,4 +230,8 @@ def test_removed_comment():
     lines = inspect.getfile(main)
     assert "# write your code here" not in lines, (
         "You have to" " remove the unnecessary comment '# write your code here'"
+<<<<<<< HEAD
     )
+=======
+    )
+>>>>>>> 98039898d90a9d865ff3318f5fe8f75398d28cb5
