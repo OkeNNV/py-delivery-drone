@@ -6,7 +6,4 @@
 venv/
 .pytest_cache/
 **__pycache__/
-<<<<<<< HEAD
 .venv
-=======
->>>>>>> 98039898d90a9d865ff3318f5fe8f75398d28cb5

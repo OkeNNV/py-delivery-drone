@@ -1,5 +1,4 @@
 class Cargo:
-<<<<<<< HEAD
     # """Represents cargo with a specific weight."""
 
     def __init__(self, weight: int) -> None:
@@ -148,9 +147,3 @@ class DeliveryDrone(FlyingRobot):
     def unhook_load(self) -> None:
         """Remove currently attached cargo."""
         self.current_load = None
-=======
-    def __init__(self, weight: int) -> None:
-        self.weight = weight
-
-# write your code here
->>>>>>> 98039898d90a9d865ff3318f5fe8f75398d28cb5
